@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumVeeamTask", "SeleniumVeeamTask\SeleniumVeeamTask.csproj", "{C26DF099-3579-4509-B181-FEA886930F2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C26DF099-3579-4509-B181-FEA886930F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26DF099-3579-4509-B181-FEA886930F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26DF099-3579-4509-B181-FEA886930F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26DF099-3579-4509-B181-FEA886930F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C73BE1BC-98CC-4E90-9FF4-DD2E369A8A5E}
+	EndGlobalSection
+EndGlobal
